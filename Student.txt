@@ -1,0 +1,5 @@
+Name          Date of Birth        email
+----          -------------        -----------------
+Eran          09.10.2000           eran@gmail.com
+Mikasa        18.12.1999           mikasa@gmail.com
+Levi          22.10.1995           levi@gmail.com
